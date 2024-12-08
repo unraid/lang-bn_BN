@@ -38,7 +38,7 @@ define OS boot options=
 define the amount memory=
 define the maximum amount of memory=
 define type of cpu presented to this vm=
-Description =Description
+Description=Description
 description of virtual machine=
 Disk devices=
 Disk devicesVolume=Disk devices/Volume
@@ -176,7 +176,7 @@ Stop All=
 Tickpolicy=
 Timer Source=
 Toggle VM autostart=
-Top Image =Top Image
+Top Image=Top Image
 type of storage image=
 Unknown action=
 Unknown version=
@@ -226,3 +226,5 @@ Windows 7XP=Windows 7/XP
 Windows 82012, newer Linux distros=Windows 8/2012, newer Linux distros
 wsport for virtual console=
 XML View=
+
+; Note: December 8, 2024 - 221 missing translations
